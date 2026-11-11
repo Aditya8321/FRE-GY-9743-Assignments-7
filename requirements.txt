@@ -5,3 +5,7 @@ pandas==2.3.1
 QuantLib==1.41
 jupyter>=1.1
 ipykernel>=6.29
+# Plotting and reproducible notebook execution/export for Assignment 7.
+matplotlib>=3.8
+nbclient>=0.10
+nbconvert>=7.16
