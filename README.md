@@ -98,14 +98,14 @@ The main deliverable is the complete project: notebook, `fixedincomelib/`,
 run without the library. Use the complete ZIP when file upload is required,
 and include the HTML copy for easy review if the portal allows it.
 
-The local solution branch is `assignment-7-solution`. Its configured push
+The local solution branch is `Aditya_Shah_Branch`. Its configured push
 destination is the personal fork:
 
 `https://github.com/Aditya8321/FRE-GY-9743-Assignments-7.git`
 
 After publishing, its branch URL is:
 
-`https://github.com/Aditya8321/FRE-GY-9743-Assignments-7/tree/assignment-7-solution`
+`https://github.com/Aditya8321/FRE-GY-9743-Assignments-7/tree/Aditya_Shah_Branch`
 
 The announcement gives **November 12, 2026** as the deadline but does not
 specify a time or submission format. Follow the actual Brightspace fields.
